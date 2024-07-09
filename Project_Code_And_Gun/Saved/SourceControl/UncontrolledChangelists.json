@@ -6,7 +6,15 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/teoka/Documents/GitHub/Project-Code-And-Guns/Project_Code_And_Gun/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/teoka/Documents/GitHub/Project-Code-And-Guns/Project_Code_And_Gun/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+				"C:/Users/teoka/Documents/GitHub/Project-Code-And-Guns/Project_Code_And_Gun/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/teoka/Documents/GitHub/Project-Code-And-Guns/Project_Code_And_Gun/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O.uasset",
+				"C:/Users/teoka/Documents/GitHub/Project-Code-And-Guns/Project_Code_And_Gun/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XJ/HL558UUAGCS9HVVOI0S7PX.uasset",
+				"C:/Users/teoka/Documents/GitHub/Project-Code-And-Guns/Project_Code_And_Gun/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S.uasset",
+				"C:/Users/teoka/Documents/GitHub/Project-Code-And-Guns/Project_Code_And_Gun/Content/FirstPerson/Blueprints/BP_WallRun_Wall.uasset",
+				"C:/Users/teoka/Documents/GitHub/Project-Code-And-Guns/Project_Code_And_Gun/Content/FirstPerson/Blueprints/WallMaterial.uasset",
+				"C:/Users/teoka/Documents/GitHub/Project-Code-And-Guns/Project_Code_And_Gun/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/NX/UJ4GGKR9DRREB7D2RHVXWH.uasset",
+				"C:/Users/teoka/Documents/GitHub/Project-Code-And-Guns/Project_Code_And_Gun/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/ER/9N0HLXB330PM1MOMRDOWU5.uasset",
+				"C:/Users/teoka/Documents/GitHub/Project-Code-And-Guns/Project_Code_And_Gun/Content/Untitled.umap"
 			]
 		}
 	]
